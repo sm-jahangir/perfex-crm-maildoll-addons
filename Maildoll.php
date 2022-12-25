@@ -4,8 +4,9 @@
  * It gets the email and token from the url,
  * then it checks if the email and token matches the database,
  * if it does, it returns the data from the database
- * @ version 1.0.0
+ * @ version 1.0.1
  * @ Mohammad Prince
+ * @ Contributed by Jahangir
  * @ SoftTech-IT
  */
 

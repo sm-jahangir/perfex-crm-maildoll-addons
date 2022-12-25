@@ -4,8 +4,9 @@
  * It creates a table in the database if it doesn't exist,
  * and then inserts a token into the table if it doesn't exist,
  * and if it does exist, it updates the token
- * @ version 1.0.0
+ * @ version 1.0.1
  * @ Mohammad Prince
+ * @ Contributed by Jahangir
  * @ SoftTech-IT
  */
 
